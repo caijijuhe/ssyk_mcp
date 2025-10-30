@@ -126,7 +126,7 @@
 ## 🔌 接入配置
 
 ### Cherry Studio 配置示例
-
+元溯资产矩阵
 ```json
 {
   "mcpServers": {
@@ -138,6 +138,16 @@
   }
 }
 ```
+元溯处置雷达
+{
+  "mcpServers": {
+    "type": "streamableHttp",
+    "url": "https://dashscope.aliyuncs.com/api/v1/mcps/market-cmapi00071408/mcp",
+    "headers": {
+      "Authorization": "Bearer your-api-key"
+    }
+  }
+}
 
 ---
 
