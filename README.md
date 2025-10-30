@@ -133,7 +133,7 @@
     "type": "streamableHttp",
     "url": "https://dashscope.aliyuncs.com/api/v1/mcps/market-cmapi00071410/mcp",
     "headers": {
-      "Authorization": "Bearer sk-465ff0ca2633460ebeeb537b72aefcc6"
+      "Authorization": "Bearer your-api-key"
     }
   }
 }
